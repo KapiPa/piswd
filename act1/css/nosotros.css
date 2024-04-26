@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 35px;    
+}
+main{
+    height: 80%;
+    width: 85%;
+    
+}
+.cuerpo{
+    display: flex;
+}
+
+.copyright{
+    background-color: black;
+    color: white;
+    width: auto;
+    height: 10%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;   
+}
